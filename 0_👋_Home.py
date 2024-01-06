@@ -54,7 +54,7 @@ st.write("""
 - 🧑‍💻 I am  Student in EAE Business School, Currently doing my Master's Degree in Big Data and Analytics
 
 - 🛩️ prev: I did My Bachelor's Degree in Civil Engineering and also I did Software developer Course so I have Knowledge on Java, SQL, HTML, CSS and Javascript
-- ❤️ Passio towards Software field
+- ❤️ Passion towards Software field
 
 - 🤖 In my Engineering Final year, I did a project related to Civil Engineering known as Grey water and its Characteristics which was awarded a prize money as best project of the year
 
